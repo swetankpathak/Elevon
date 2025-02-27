@@ -126,14 +126,6 @@ class ElevatorGUI:
 |      Request         |
 +-----------------------+
 ```
-
----
-
-## 🔥 **Next Steps & Improvements**
-✅ **Multi-direction optimization** - Handle multiple requests better.
-✅ **Logging and Reports** - Track elevator usage.
-✅ **Deploy as a Web App** - Convert into a Flask/Django application.
-
 ---
 
 ## 🎯 **Final Summary**
